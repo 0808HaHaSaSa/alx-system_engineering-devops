@@ -16,3 +16,4 @@ Other users: all the permissions
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10:Write a script that sets the mode of the file hello the same as olleh’s mode.
 12:Create a script that creates a directory called my_dir with permissions 751 in the working directory.
+13:Write a script that changes the group owner to school for the file hello
